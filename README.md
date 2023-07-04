@@ -28,8 +28,8 @@ Com os seguintes dados:
 
 ```
 {
-    "nome": "vinicios neves",
-    "email": "vinicios@alura.com.br",
+    "nome": "renata degaspari",
+    "email": "renata@alura.com.br",
     "senha": "123456",
     "endereco": "Rua Vergueiro, 3185",
     "complemento": "Vila Mariana",
@@ -52,7 +52,7 @@ Com os seguintes dados:
 
 ```
 {
-  "email": "vinicios@alura.com.br",
+  "email": "renata@alura.com.br",
   "senha":"123456"
 }
 ```
